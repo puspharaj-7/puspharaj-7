@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Pushpharaj S 👋
+# Hey there, I'm Pushparaj S 👋
 
 ### 💻 Software Engineer
 </div>
