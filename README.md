@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey there, I'm Pushparaj S 👋
+# Hey there, I'm Pushpharaj S 👋
 
 ### 💻 Software Engineer
 </div>
@@ -18,10 +18,6 @@
         <li>🧠 <b>DSA | 🏗️ System Design</b></li>
         <li>🎓 <b>Mechanical Engineering Foundation</b></li>
       </ul>
-      <p>
-         I am passionate about building scalable backend systems and efficient APIs. <br/>
-         Always learning and exploring new technologies!
-      </p>
     </td>
     <td width="45%" align="center">
       <a href="https://github.com/puspharaj-7">
