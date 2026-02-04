@@ -7,28 +7,25 @@
 
 <br/>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="left">🚀 &nbsp; About Me</h3>
-      <p align="left" style="margin-bottom: 15px;">
-        <em>"Building robust Backend Systems & efficient APIs. <br/> Code is poetry, written for machines."</em>
-      </p>
-      <ul align="left" style="list-style: none; padding-left: 0;">
-         <li>💻 &nbsp; <b>Java Full Stack Developer</b></li>
-         <li>⚙️ &nbsp; <b>Backend Systems & APIs</b></li>
-         <li>☕ &nbsp; <b>Core Java | 🌱 Spring Boot</b></li>
-         <li>🧠 &nbsp; <b>DSA | 🏗️ System Design</b></li>
-         <li>🎓 &nbsp; <b>Mechanical Engineering Foundation</b></li>
-      </ul>
-    </td>
-    <td width="50%" valign="center" align="right">
-      <a href="https://github.com/puspharaj-7">
-        <img src="assets/developer.gif" width="90%" alt="Programming" style="border-radius: 12px;"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/puspharaj-7">
+  <img align="right" src="assets/developer.gif" width="45%" alt="Programming" style="border-radius: 12px; margin-top: 20px;"/>
+</a>
+
+### 🚀 &nbsp; About Me
+
+<p align="left">
+  <em>"Building robust Backend Systems & efficient APIs. <br/> Code is poetry, written for machines."</em>
+</p>
+
+<ul align="left" style="list-style: none; padding-left: 0;">
+  <li>💻 &nbsp; <b>Java Full Stack Developer</b></li>
+  <li>⚙️ &nbsp; <b>Backend Systems & APIs</b></li>
+  <li>☕ &nbsp; <b>Core Java | 🌱 Spring Boot</b></li>
+  <li>🧠 &nbsp; <b>DSA | 🏗️ System Design</b></li>
+  <li>🎓 &nbsp; <b>Mechanical Engineering Foundation</b></li>
+</ul>
+
+<br clear="all" />
 <br/>
 
 <br/>
