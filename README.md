@@ -1,12 +1,15 @@
+<div align="center">
+
 # Hey there, I'm Pushpharaj S 👋
 
 ### 💻 Software Engineer
+</div>
 
 <br/>
 
 <table border="0" width="100%">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="center">
       <h3>About Me</h3>
       <ul>
         <li>💻 <b>Java Full Stack Developer</b></li>
@@ -20,9 +23,9 @@
          Always learning and exploring new technologies!
       </p>
     </td>
-    <td width="40%" align="right">
+    <td width="45%" align="center">
       <a href="https://github.com/puspharaj-7">
-        <img src="assets/developer.gif" width="90%" alt="Developer GIF" style="border-radius: 10px;"/>
+        <img src="assets/developer.gif" width="100%" alt="Developer GIF" style="border-radius: 10px;"/>
       </a>
     </td>
   </tr>
@@ -30,43 +33,37 @@
 
 <br/>
 
-### 🚀 Languages & Tech Stack
+### I code in
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>Backend & Database</b><br/><br/>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" alt="Java"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" width="40" alt="Spring"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/python.png" width="40" alt="Python"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="40" alt="Node.js"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40" alt="MySQL"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40" alt="MongoDB"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/null/graphql.png" width="40" alt="GraphQL"/></a>
-    </td>
-    <td valign="top" width="50%">
-      <b>Frontend & Mobile</b><br/><br/>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="40" alt="JavaScript"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="40" alt="HTML5"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS3"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/sass.png" width="40" alt="Sass"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" width="40" alt="Bootstrap"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="40" alt="React Native"/></a>
-      <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png" width="40" alt="Handlebars"/></a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-       <br/><b>AI & Tools</b><br/><br/>
-       <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40" alt="TensorFlow"/></a>
-       <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40" alt="VS Code"/></a>
-       <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/intellij-idea.png" width="40" alt="IntelliJ"/></a>
-       <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/git.png" width="40" alt="Git"/></a>
-       <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/github--v1.png" width="40" alt="GitHub"/></a>
-       <a href="https://github.com/puspharaj-7"><img src="assets/antigravity.png" width="40" title="Antigravity" alt="Antigravity"/></a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="50" width="50" alt="Java"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/python.png" height="50" width="50" alt="Python"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/html-5.png" height="50" width="50" alt="HTML5"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/css3.png" height="50" width="50" alt="CSS3"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/sass.png" height="50" width="50" alt="Sass"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="50" width="50" alt="Bootstrap"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/javascript.png" height="50" width="50" alt="JavaScript"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/tensorflow.png" height="50" width="50" alt="TensorFlow"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/fluent/48/000000/arduino.png" height="50" width="50" alt="Arduino"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/react-native.png" height="50" width="50" alt="React Native"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/google-firebase-console.png" height="50" width="50" alt="Firebase"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" height="50" width="50" alt="MySQL"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/mongodb.png" height="50" width="50" alt="MongoDB"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/nodejs.png" height="50" width="50" alt="Node.js"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/000000/spring-logo.png" height="50" width="50" alt="Spring"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/fluency/48/000000/handlebar-mustache.png" height="50" width="50" alt="Handlebars"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/null/graphql.png" height="50" width="50" alt="GraphQL"/></a>
+</p>
+
+### IDE and Tools I Use
+
+<p align="left">
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" height="50" width="50" alt="VS Code"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/intellij-idea.png" height="50" width="50" alt="IntelliJ IDEA"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="assets/antigravity.png" height="50" width="50" alt="Antigravity"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/git.png" height="50" width="50" alt="Git"/></a>
+  <a href="https://github.com/puspharaj-7"><img src="https://img.icons8.com/color/48/github--v1.png" height="50" width="50" alt="GitHub"/></a>
+</p>
 
 <br/>
 
@@ -88,4 +85,6 @@
 </table>
 
 <br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%"/>
+</div>
