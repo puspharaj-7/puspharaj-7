@@ -8,10 +8,10 @@
 <br/>
 
 <table border="0" width="100%">
-  <tr>
-    <td width="55%" valign="center">
-      <h3>About Me</h3>
-      <ul>
+  <tr style="border: none;">
+    <td width="55%" valign="middle" style="border: none;">
+      <h3>👑 About Me</h3>
+      <ul align="left">
         <li>💻 <b>Java Full Stack Developer</b></li>
         <li>⚙️ <b>Backend Systems & APIs</b></li>
         <li>☕ <b>Core Java | 🌱 Spring Boot</b></li>
@@ -19,9 +19,9 @@
         <li>🎓 <b>Mechanical Engineering Foundation</b></li>
       </ul>
     </td>
-    <td width="45%" align="center">
+    <td width="45%" align="center" valign="middle" style="border: none;">
       <a href="https://github.com/puspharaj-7">
-        <img src="assets/developer.gif" width="100%" alt="Developer GIF" style="border-radius: 10px;"/>
+        <img src="assets/developer.gif" width="90%" alt="Developer GIF" style="border-radius: 15px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);"/>
       </a>
     </td>
   </tr>
