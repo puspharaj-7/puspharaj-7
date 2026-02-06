@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/puspharaj-7">
-  <img align="right" src="assets/developer.gif" width="45%" alt="Programming" style="border-radius: 12px; margin-top: 20px; padding-right: 100px;"/>
+  <img align="right" src="assets/developer.gif" width="45%" alt="Programming" style="border-radius: 12px; margin-top: 20px; margin-right: 30px;"/>
 </a>
 
 ### 🚀 &nbsp; About Me
