@@ -16,7 +16,7 @@
   <em>"Building robust Backend Systems & efficient APIs. <br/> Code is poetry, written for machines."</em>
 </p>
 
-<ul align="left" style="list-style: none; padding-left: 0;">
+<ul align="left" style="list-style: none; padding-left: 10px;">
   <li>💻 &nbsp; <b>Java Full Stack Developer</b></li>
   <li>⚙️ &nbsp; <b>Backend Systems & APIs</b></li>
   <li>☕ &nbsp; <b>Core Java | 🌱 Spring Boot</b></li>
