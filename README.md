@@ -1,87 +1,75 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 👨‍💻 Building Scalable Backend Systems & High-Performance APIs
+
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*  
+— Robert C. Martin
+
+</div>
+
+<br/>
+
+## 🎯 About Me
+
+<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+
+```yaml
+name: Puspharaj
+role: Java Full Stack Developer
+focus: Backend Engineering & System Design
+education: Mechanical Engineering Background
+passion: Building Robust, Scalable Solutions
+
+current_focus:
+  - Advanced DSA & Problem Solving
+  - Distributed Systems Architecture
+  - Microservices Design Patterns
+  - Spring Boot Ecosystem Mastery
+
+philosophy: |
+  "Code is poetry written for machines,
+   but read by humans."
+```
+
 <br clear="all"/>
 
 ## 🛠️ Technology Stack
 
 ### Core Technologies
 
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" alt="Java"/>
-    <br/><sub><b>Java</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="65" alt="Spring Boot"/>
-    <br/><sub><b>Spring Boot</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python"/>
-    <br/><sub><b>Python</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL"/>
-    <br/><sub><b>MySQL</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js"/>
-    <br/><sub><b>Node.js</b></sub>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="65" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js" title="Node.js"/>
+</p>
 
 ### Frontend & Web Technologies
 
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/javascript.png" width="65" alt="JavaScript"/>
-    <br/><sub><b>JavaScript</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/react-native.png" width="65" alt="React"/>
-    <br/><sub><b>React</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/html-5.png" width="65" alt="HTML5"/>
-    <br/><sub><b>HTML5</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/css3.png" width="65" alt="CSS3"/>
-    <br/><sub><b>CSS3</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" alt="Bootstrap"/>
-    <br/><sub><b>Bootstrap</b></sub>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="65" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="65" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="65" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="65" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" alt="Bootstrap" title="Bootstrap"/>
+</p>
 
 ### Development Tools
 
-<table>
-<tr>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/intellij-idea.png" width="65" alt="IntelliJ IDEA"/>
-    <br/><sub><b>IntelliJ IDEA</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" alt="VS Code"/>
-    <br/><sub><b>VS Code</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/git.png" width="65" alt="Git"/>
-    <br/><sub><b>Git</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="https://img.icons8.com/color/96/github--v1.png" width="65" alt="GitHub"/>
-    <br/><sub><b>GitHub</b></sub>
-  </td>
-  <td align="center" width="140">
-    <img src="assets/antigravity.png" width="65" alt="Custom Tools"/>
-    <br/><sub><b>Custom Tools</b></sub>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://img.icons8.com/color/96/intellij-idea.png" width="65" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/96/git.png" width="65" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/96/github--v1.png" width="65" alt="GitHub" title="GitHub"/>
+  <img src="assets/antigravity.png" width="65" alt="Custom Tools" title="Custom Tools"/>
+</p>
 
 <br/>
 
@@ -90,12 +78,12 @@
 <div align="center">
 
 ### LeetCode Journey
-<a href="https://leetcode.com/puspharaj-7">
-  <img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Assistant&ext=contest" width="48%" alt="LeetCode Stats"/>
-</a>
+<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Assistant&ext=contest" width="95%" alt="LeetCode Stats"/>
+
+<br/>
 
 ### Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=ffffff&line=00ff1e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
 
 </div>
 
