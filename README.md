@@ -1,239 +1,137 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff1e,50:00cc17,100:009912&height=250&section=header&text=PUSPHARAJ%20S&fontSize=70&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Engineer%20%7C%20Backend%20Architect%20%7C%20System%20Designer&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
   
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF1E&center=true&vCenter=true&width=800&lines=Backend+Systems+Engineer;Building+Scalable+REST+APIs;Java+%7C+Spring+Boot+%7C+Microservices;Problem+Solver+%7C+Code+Optimizer" alt="Typing SVG" />
+### 👨‍💻 Building Scalable Backend Systems & High-Performance APIs
 
-<br/>
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*  
+— Robert C. Martin
 
 </div>
 
 <br/>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
+## 🎯 About Me
 
-<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" />
+<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 
-```typescript
-const puspharaj = {
-    role: "Java Full Stack Developer",
-    code: ["Java", "Python", "JavaScript", "TypeScript"],
-    technologies: {
-        backend: {
-            java: ["Spring Boot", "Hibernate", "JPA"],
-            python: ["Django", "Flask"],
-            js: ["Node.js", "Express.js"]
-        },
-        frontend: ["React", "HTML5", "CSS3", "Bootstrap"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Git", "Docker", "Maven", "Postman"]
-    },
-    architecture: ["Microservices", "REST APIs", "MVC", "Layered"],
-    currentFocus: "Building Scalable Backend Systems",
-    funFact: "I debug with console.log() and System.out.println()"
-};
+```yaml
+name: Puspharaj
+role: Java Full Stack Developer
+focus: Backend Engineering & System Design
+education: Mechanical Engineering Background
+passion: Building Robust, Scalable Solutions
+
+current_focus:
+  - Advanced DSA & Problem Solving
+  - Distributed Systems Architecture
+  - Microservices Design Patterns
+  - Spring Boot Ecosystem Mastery
+
+philosophy: |
+  "Code is poetry written for machines,
+   but read by humans."
 ```
 
 <br clear="all"/>
 
-### 🎯 Current Focus
+## 🛠️ Technology Stack
 
-- 🔭 Building **robust backend systems** with Spring Boot
-- 🌱 Deepening knowledge in **System Design** & **Distributed Systems**
-- 💡 Mastering **Data Structures & Algorithms**
-- 🚀 Contributing to **Open Source** projects
-- 📚 Learning **Cloud Technologies** (AWS, Azure)
+### Core Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="65" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js" title="Node.js"/>
+</p>
+
+### Frontend & Web Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="65" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="65" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="65" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="65" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" alt="Bootstrap" title="Bootstrap"/>
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/intellij-idea.png" width="65" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/96/git.png" width="65" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/96/github--v1.png" width="65" alt="GitHub" title="GitHub"/>
+  <img src="assets/antigravity.png" width="65" alt="Custom Tools" title="Custom Tools"/>
+</p>
 
 <br/>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> Technology Stack
+## 📈 Performance Metrics
 
 <div align="center">
 
-### ⚡ Backend Technologies
+### LeetCode Journey
+<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Assistant&ext=contest&border=0" width="95%" alt="LeetCode Stats"/>
 
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,express,hibernate" />
+<br/>
 
-### 🎨 Frontend Technologies
-
-<img src="https://skillicons.dev/icons?i=js,react,html,css,bootstrap,tailwind" />
-
-### 🗄️ Databases & Cloud
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,firebase,redis,aws" />
-
-### 🛠️ Development Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,maven" />
+### Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=ffffff&line=00ff1e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
 
 </div>
 
 <br/>
 
-## 📊 GitHub Analytics
+## 🎓 Areas of Expertise
+
+<div align="center">
+
+| 🏗️ **Backend Development** | 🔧 **System Design** | 🧮 **Problem Solving** |
+|:---:|:---:|:---:|
+| RESTful API Design | Microservices Architecture | Data Structures |
+| Database Optimization | Scalability Patterns | Algorithm Design |
+| Spring Boot Ecosystem | Distributed Systems | Complexity Analysis |
+| Authentication & Security | Caching Strategies | Competitive Programming |
+
+</div>
+
+<br/>
+
+## 🌟 What Drives Me
+
+- 💡 **Innovation**: Continuously exploring cutting-edge technologies and design patterns
+- 🎯 **Quality**: Writing clean, maintainable, and well-documented code
+- 📚 **Learning**: Committed to continuous improvement and knowledge sharing
+- 🤝 **Collaboration**: Building meaningful solutions through teamwork
+- 🚀 **Impact**: Creating systems that scale and deliver real value
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puspharaj-7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/puspharaj-7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
+
+</div>
+
+<br/>
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff1e&icon_color=00ff1e&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=chartreuse-dark&hide_border=true&background=0D1117&stroke=00ff1e&ring=00ff1e&fire=00ff1e&currStreakLabel=00ff1e" />
-
-</div>
-
-<div align="center">
+### 💭 Developer Quote
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff1e&text_color=ffffff" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=puspharaj-7&theme=onestar&no-frame=true&no-bg=true&column=4&title=Commits,Repositories,Stars,Followers" />
-
-</div>
-
-<br/>
-
-## 🏆 Coding Profiles & Performance
-
-<div align="center">
-
-### 💻 LeetCode Journey
-
-<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Ubuntu&border=0&radius=10&ext=contest" width="90%" alt="LeetCode Stats"/>
-
-<br/><br/>
-
-### 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=0d1117&color=ffffff&line=00ff1e&point=ffffff&area=true&hide_border=true&custom_title=📊%20Contribution%20Activity%20Graph" width="98%" alt="Contribution Graph"/>
-
-</div>
-
-<br/>
-
-## 🎓 Skills & Expertise
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ Backend Development
-```yaml
-✓ RESTful API Design & Development
-✓ Microservices Architecture
-✓ Database Design & Optimization
-✓ Authentication & Authorization
-✓ Server-Side Logic & Business Rules
-✓ API Security & Best Practices
-```
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 Core Competencies
-```yaml
-✓ Data Structures & Algorithms
-✓ Object-Oriented Programming
-✓ System Design & Architecture
-✓ Database Management (SQL/NoSQL)
-✓ Version Control (Git & GitHub)
-✓ Problem Solving & Debugging
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br/>
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=puspharaj-7&repo=puspharaj-7&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00ff1e&icon_color=00ff1e&text_color=ffffff)](https://github.com/puspharaj-7)
-
-</div>
-
-<br/>
-
-## 💼 What I Bring to the Table
-
-<div align="center">
-
-| 💡 Innovation | 🎯 Quality | 📚 Learning | 🤝 Collaboration |
-|:---:|:---:|:---:|:---:|
-| Exploring cutting-edge tech & patterns | Clean, maintainable code | Continuous growth mindset | Team player & mentor |
-| Creative problem solving | Well-documented solutions | Knowledge sharing | Effective communication |
-| Modern architecture design | Performance optimization | Staying current | Open source contributor |
-
-</div>
-
-<br/>
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puspharaj-7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/puspharaj-7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:puspharaj.sde@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff1e?style=for-the-badge&logo=About.me&logoColor=black)](#)
-
-</div>
-
-<br/>
-
-## 🎨 Code Philosophy
-
-<div align="center">
-
-```java
-public class Developer {
-    private String name = "Puspharaj";
-    private String[] skills = {"Java", "Spring Boot", "System Design"};
-    private boolean passionate = true;
-    
-    public void code() {
-        while (passionate) {
-            learn();
-            build();
-            iterate();
-            share();
-        }
-    }
-    
-    private void learn() {
-        System.out.println("Learning never stops...");
-    }
-}
-```
-
-</div>
-
-<br/>
-
-## 📈 Profile Views & Followers
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=puspharaj-7&color=00ff1e&style=for-the-badge&label=PROFILE+VIEWS)
-[![Followers](https://img.shields.io/github/followers/puspharaj-7?style=for-the-badge&color=00ff1e&labelColor=0D1117&logo=github&label=Followers)](https://github.com/puspharaj-7?tab=followers)
-
-</div>
-
-<br/>
-
-## 💭 Developer Wisdom
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Code%20is%20like%20humor.%20When%20you%20have%20to%20explain%20it,%20it's%20bad.&author=Cory%20House)
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
@@ -242,11 +140,11 @@ public class Developer {
 ---
 
 <div align="center">
-
-### 🌟 "Turning Coffee into Code, One Line at a Time" ☕️
+  
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff1e,50:00cc17,100:009912&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 
 </div>
