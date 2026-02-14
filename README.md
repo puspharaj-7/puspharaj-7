@@ -104,16 +104,6 @@ philosophy: |
 
 <br/>
 
-## 🤖 AI-Augmented Workflow
-
-<p align="center">
-  <img src="https://icons8.com/icon/zQjzFjPpT2Ek/claude-ai" width="65" alt="claude" title="Claude"/>
-  <img src="https://icons8.com/icon/FBO05Dys9QCg/chatgpt width="65"/>
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL" title="MySQL"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js" title="Node.js"/>
-</p>
-
 ## 🌟 What Drives Me
 
 - 💡 **Innovation**: Continuously exploring cutting-edge technologies and design patterns
