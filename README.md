@@ -1,3 +1,12 @@
+
+
+
+
+
+Claude is AI and can make mistakes. Please double-check responses.
+Readme · MD
+Copy
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 </div>
@@ -104,44 +113,18 @@ philosophy: |
 
 <br/>
 
-## 🤖 AI-Augmented Engineering Workflow
+## 🤖 AI-Augmented Workflow
 
-<div align="center">
-
-```yaml
-philosophy: "AI as a force multiplier, not a replacement for engineering fundamentals"
-approach: Strategic integration of AI tools to accelerate development cycles
-```
-
-</div>
-
-<br/>
-
-### Leveraging AI for Engineering Excellence
-
-<p align="right">
-  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/openai/openai-original.svg" width="65" alt="ChatGPT" title="ChatGPT"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anthropic/anthropic-original.svg" width="65" alt="Claude" title="Claude"/>
+  <img src="https://www.gstatic.com/lamda/images/gemini_sparkle_v002_d4735304ff6292a690345.svg" width="65" alt="Gemini" title="Gemini"/>
+  <img src="https://www.gstatic.com/aihub/images/notebooklm_logo.png" width="65" alt="NotebookLM" title="NotebookLM"/>
 </p>
 
-I integrate AI tools strategically throughout my development workflow to enhance productivity while maintaining engineering rigor:
-
-- **🏗️ Architecture Validation**: Using AI to review system design decisions, validate microservices patterns, and identify potential scalability bottlenecks before implementation
-
-- **🐛 Accelerated Debugging**: Leveraging AI-assisted analysis to quickly isolate complex issues in distributed systems, analyze stack traces, and explore edge cases in multithreaded environments
-
-- **📝 Documentation & Code Review**: Employing AI to generate comprehensive API documentation, review code for best practices, and ensure consistent coding standards across large codebases
-
-- **🧪 Test Strategy Enhancement**: Utilizing AI to identify missing test scenarios, generate comprehensive unit test cases, and improve overall code coverage with meaningful assertions
-
-- **🎯 Rapid Prototyping**: Accelerating proof-of-concept development and exploring alternative implementation approaches while maintaining focus on production-grade architecture
-
-- **📚 Continuous Learning**: Using AI tools like NotebookLM and Lovable AI to synthesize technical documentation, stay current with framework updates, and quickly evaluate new technologies against project requirements
-
 <div align="center">
 
-*AI tools amplify engineering capability—they don't define it.*
+*Leveraging AI to accelerate development cycles, validate architecture decisions, and enhance code quality—while maintaining strong engineering fundamentals.*
 
 </div>
 
@@ -191,3 +174,6 @@ I integrate AI tools strategically throughout my development workflow to enhance
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
