@@ -1,21 +1,41 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/> </div> <br/> <div align="center">
-👨‍💻 Building Scalable Backend Systems & High-Performance APIs
-"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  
+### 👨‍💻 Building Scalable Backend Systems & High-Performance APIs
+
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*  
 — Robert C. Martin
 
-</div> <br/>
-🎯 About Me
-<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/> ```yaml name: Puspharaj role: Java Full Stack Developer focus: Backend Engineering & System Design education: Mechanical Engineering Background passion: Building Robust, Scalable Solutions
+</div>
+
+<br/>
+
+## 🎯 About Me
+
+<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+
+```yaml
+name: Puspharaj
+role: Java Full Stack Developer
+focus: Backend Engineering & System Design
+education: Mechanical Engineering Background
+passion: Building Robust, Scalable Solutions
+
 current_focus:
+  - Advanced DSA & Problem Solving
+  - Distributed Systems Architecture
+  - Microservices Design Patterns
+  - Spring Boot Ecosystem Mastery
 
-Advanced DSA & Problem Solving
-Distributed Systems Architecture
-Microservices Design Patterns
-Spring Boot Ecosystem Mastery
 philosophy: |
-"Code is poetry written for machines,
-but read by humans."
-
+  "Code is poetry written for machines,
+   but read by humans."
+```
 
 <br clear="all"/>
 
@@ -87,19 +107,12 @@ but read by humans."
 ## 🤖 AI-Augmented Workflow
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="65" alt="ChatGPT" title="ChatGPT"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Gemini_logo.svg" width="65" alt="Gemini" title="Gemini"/>
-  <img src="https://pbs.twimg.com/profile_images/1834319323274432512/THWbNdvq_400x400.jpg" width="65" alt="Claude" title="Claude" style="border-radius: 10px;"/>
-  <img src="https://img.icons8.com/color/96/google-logo.png" width="65" alt="NotebookLM" title="NotebookLM"/>
+  <img src="https://icons8.com/icon/zQjzFjPpT2Ek/claude-ai" width="65" alt="claude" title="Claude"/>
+  <img src="https://icons8.com/icon/FBO05Dys9QCg/chatgpt width="65"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js" title="Node.js"/>
 </p>
-
-<div align="center">
-
-*Leveraging AI to accelerate development cycles, validate architecture decisions, and enhance code quality—while maintaining strong engineering fundamentals.*
-
-</div>
-
-<br/>
 
 ## 🌟 What Drives Me
 
@@ -145,6 +158,9 @@ but read by humans."
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
 
 
 
