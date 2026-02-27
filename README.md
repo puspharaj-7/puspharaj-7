@@ -20,18 +20,14 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
 </div>
 
-<table align="center" width="100%" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td width="100%" valign="top" style="border: none; padding: 10px;" align="center">
-      <h2>🚀 Full Stack Visionary</h2>
-      <p align="center">
-        I engineer <b>dynamic, modern, and highly interactive applications</b> from the ground up.<br/>
-        As a <b>Full Stack Developer</b>, I specialize in combining <b>stunning 3D UIs, 4K visual quality</b>, and smooth animations <br/>
-        with <b>robust, scalable, event-driven backend systems</b>. 
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🚀 Full Stack Visionary</h2>
+  <p>
+    I engineer <b>dynamic, modern, and highly interactive applications</b> from the ground up.<br/>
+    As a <b>Full Stack Developer</b>, I specialize in combining <b>stunning 3D UIs, 4K visual quality</b>, and smooth animations <br/>
+    with <b>robust, scalable, event-driven backend systems</b>. 
+  </p>
+</div>
 
 ### 🎮 Interactive Tech Stack (Click to Expand)
 
@@ -40,10 +36,10 @@
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,threejs,vite,css,html,figma,framermotion&theme=dark&perline=10" alt="Frontend & UI/UX" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,css,html,figma,framer&theme=dark" alt="Frontend & UI/UX" />
     </a>
   </p>
-  <p align="center"><i>Building immersive interfaces with React, Next.js, and Three.js for 3D web rendering.</i></p>
+  <p align="center"><i>Building immersive interfaces with React, Next.js, and modern web rendering.</i></p>
 </details>
 
 <details>
@@ -51,7 +47,7 @@
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,python,graphql,nestjs&theme=dark&perline=10" alt="Backend" />
+      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,graphql,nestjs&theme=dark" alt="Backend" />
     </a>
   </p>
   <p align="center"><i>Architecting scalable APIs, event-driven services, and rapid real-time systems.</i></p>
@@ -62,7 +58,7 @@
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,aws,docker,kubernetes,git,linux&theme=dark&perline=10" alt="Cloud & Infra" />
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,aws,docker,kubernetes,git,linux&theme=dark" alt="Cloud & Infra" />
     </a>
   </p>
   <p align="center"><i>Deploying robust and containerized infrastructure using Docker, K8s, and leading cloud providers.</i></p>
@@ -76,62 +72,52 @@
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=puspharaj-7&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="Trophy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=puspharaj-7&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=1&no-bg=1" alt="Trophy" />
   </a>
 </div>
 
 <br/>
 
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="100%" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=tokyonight&hide_border=true&border_radius=15" width="100%" />
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+</div>
 
-<table align="center" width="100%" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="100%" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-       <img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=tokyonight&font=Outfit&ext=contest&border=0&radius=15" width="100%" alt="LeetCode Stats"/>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<div align="center">
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=tokyonight&font=Outfit&ext=contest&border=0&radius=15" width="48%" alt="LeetCode Stats"/>
+</div>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.svg" alt="separator" width="100%" />
 </div>
 
-<h2 align="center">� Dynamic System Architecture</h2>
+<h2 align="center">🏗️ Dynamic System Architecture</h2>
 
 <p align="center"><i>A visual representation of an interactive, robust Full-Stack architecture.</i></p>
 
 ```mermaid
 graph TD;
-    UI[Frontend Client<br/>React / Next.js / Three.js] ==>|REST / GraphQL| API[API Gateway]
-    
-    API ==>|Auth Valid| App1[Core Backend API<br/>Spring Boot / Node.js]
+    UI[Frontend Client<br/>React / Next.js / Three.js] -->|REST / GraphQL| API[API Gateway]
+
+    API -->|Auth Valid| App1[Core Backend API<br/>Spring Boot / Node.js]
     API -.->|Real-time| WS[WebSockets<br/>Live Updates]
-    
+
     App1 -.->|Events| Kafka{{Message Broker<br/>Kafka / Redis PubSub}}
     Kafka -.->|Workers| Async[Async Processors]
-    
-    App1 ==> DB[(Relational DB<br/>PostgreSQL)]
-    App1 ==> Cache[(In-Memory Cache<br/>Redis)]
-    Async ==> NoSQL[(NoSQL DB<br/>MongoDB)]
-    
+
+    App1 --> DB[(Relational DB<br/>PostgreSQL)]
+    App1 --> Cache[(In-Memory Cache<br/>Redis)]
+    Async --> NoSQL[(NoSQL DB<br/>MongoDB)]
+
     classDef frontend fill:#3b82f6,stroke:#1d4ed8,stroke-width:2px,color:#fff;
     classDef gateway fill:#8b5cf6,stroke:#6d28d9,stroke-width:2px,color:#fff;
     classDef backend fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff;
     classDef db fill:#f59e0b,stroke:#b45309,stroke-width:2px,color:#fff;
     classDef broker fill:#ef4444,stroke:#b91c1c,stroke-width:2px,color:#fff;
-    
+
     class UI frontend;
     class API,WS gateway;
     class App1,Async backend;
@@ -144,6 +130,6 @@ graph TD;
 <div align="center">
   <p><i>Building the web. Beautifully. Flawlessly.</i></p>
   <a href="https://github.com/puspharaj-7">
-    <img src="https://profile-counter.glitch.me/puspharaj-7/count.svg" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=puspharaj-7&color=blueviolet" alt="Profile Views" />
   </a>
 </div>
