@@ -1,152 +1,127 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+  <h1>Puspharaj</h1>
+  <h3>Backend Engineer & System Design Specialist</h3>
+  <p>Building scalable backend systems, high-performance APIs, and distributed architectures.</p>
 </div>
-
-<br/>
 
 <div align="center">
-  
-### 👨‍💻 Building Scalable Backend Systems & High-Performance APIs
-
-*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*  
-— Robert C. Martin
-
+  <a href="https://www.linkedin.com/in/puspharaj-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://leetcode.com/puspharaj-7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
-<br/>
+---
 
-## 🎯 About Me
+### 💻 Technical Positioning
 
-<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+I am a **Java Full Stack Developer** operating primarily as a **Backend & Distributed Systems Engineer**. My focus is on architecting resilient server-side applications, optimizing database queries for high throughput, and implementing latency-sensitive microservices. I bridge the gap between complex product requirements and scalable, maintainable engineering solutions.
 
-```yaml
-name: Puspharaj
-role: Java Full Stack Developer
-focus: Backend Engineering & System Design
-education: Mechanical Engineering Background
-passion: Building Robust, Scalable Solutions
+---
 
-current_focus:
-  - Advanced DSA & Problem Solving
-  - Distributed Systems Architecture
-  - Microservices Design Patterns
-  - Spring Boot Ecosystem Mastery
+### ⚙️ Core Engineering Competencies
 
-philosophy: |
-  "Code is poetry written for machines,
-   but read by humans."
+| Domain | Focus Areas & Capabilities |
+| :--- | :--- |
+| **Backend Architecture** | Microservices, RESTful & gRPC APIs, Event-Driven Systems |
+| **System Design** | Horizontal Scaling, High Availability, Load Balancing, Caching Strategies |
+| **Database Engineering** | ACID Transactions, Query Optimization, Indexing, Data Modeling |
+| **Performance & Security** | Throughput Optimization, OAuth2 / JWT Authentication, Rate Limiting |
+
+---
+
+### 🏛 Architecture & System Design Capabilities
+
+I approach software engineering methodically, prioritizing decoupling, fault tolerance, and observability.
+
+<details open>
+<summary><b>Sample System Architecture (Placeholder)</b></summary>
+<br>
+
+```mermaid
+graph TD;
+    Client-->|HTTPS| API_Gateway[API Gateway / Load Balancer];
+    API_Gateway-->|Auth/Validate| Auth_Service[Authentication Service];
+    API_Gateway-->|Internal rpc| Order_Service[Order Processing Service];
+    API_Gateway-->|Internal rpc| Inventory_Service[Inventory Service];
+    
+    Order_Service-.->|Publishes| Kafka[Event Broker Kafka];
+    Inventory_Service-.->|Subscribes| Kafka;
+    
+    Order_Service-->Order_DB[(Primary DB - PostgreSQL)];
+    Order_Service-->Redis[(Redis Cache)];
 ```
+*(Note: I regularly update this diagram to reflect the latest architecture I am designing or exploring.)*
+</details>
 
-<br clear="all"/>
+---
 
-## 🛠️ Technology Stack
+### 🛠 Tech Radar
 
-### Core Technologies
+I classify technologies based on my production readiness and depth of expertise.
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" alt="Java" title="Java"/>
-  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="65" alt="Spring Boot" title="Spring Boot"/>
-  <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python" title="Python"/>
-  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL" title="MySQL"/>
-  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js" title="Node.js"/>
-</p>
+- **Core (Production-Ready):** Java, Spring Boot, Spring Security, MySQL, Hibernate
+- **Working (Active Development):** Python, Node.js, JavaScript/TypeScript, React, Redis, Docker
+- **Exploring (Experimenting):** Kubernetes, Apache Kafka, Go, GraphQL
 
-### Frontend & Web Technologies
+---
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="65" alt="JavaScript" title="JavaScript"/>
-  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="65" alt="React" title="React"/>
-  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="65" alt="HTML5" title="HTML5"/>
-  <img src="https://img.icons8.com/color/96/000000/css3.png" width="65" alt="CSS3" title="CSS3"/>
-  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" alt="Bootstrap" title="Bootstrap"/>
-</p>
+### ⚡ Engineering Impact
 
-### Development Tools
+A selection of high-impact systems I have built. Focus is on *scale and performance*.
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/intellij-idea.png" width="65" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
-  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" alt="VS Code" title="VS Code"/>
-  <img src="https://img.icons8.com/color/96/git.png" width="65" alt="Git" title="Git"/>
-  <img src="https://img.icons8.com/color/96/github--v1.png" width="65" alt="GitHub" title="GitHub"/>
-  <img src="assets/antigravity.png" width="65" alt="Custom Tools" title="Custom Tools"/>
-</p>
+1. **[E-Commerce Order Processing Engine](#)**
+   - **Context:** Built a highly available backend for handling concurrent order transactions.
+   - **Architecture:** Spring Boot, PostgreSQL, Redis.
+   - **Impact:** Reduced p99 API latency by 40% through aggressive caching and query optimization. 
 
-<br/>
+2. **[Real-Time Notification System](#)**
+   - **Context:** Event-driven service for broadcasting user alerts.  
+   - **Architecture:** Node.js, WebSockets, RabbitMQ.
+   - **Impact:** Scaled to support thousands of concurrent persistent connections with sub-second message delivery.
 
-## 📈 Performance Metrics
+*(Tip: Pin these repositories to your profile and link them here.)*
+
+---
+
+### � GitHub Activity
 
 <div align="center">
-
-### LeetCode Journey
-<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Assistant&ext=contest&border=0" width="95%" alt="LeetCode Stats"/>
-
-<br/>
-
-### Contribution Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=ffffff&line=00ff1e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
-
+  <a href="https://github.com/puspharaj-7">
+    <img src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats" width="48%">
+  </a>
+  <a href="https://github.com/puspharaj-7">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" width="48%">
+  </a>
 </div>
 
-<br/>
+---
 
-## 🎓 Areas of Expertise
+### 🧩 Algorithmic Problem Solving
 
-<div align="center">
+<details>
+<summary><b>View DSA & Competitive Programming</b></summary>
+<br>
 
-| 🏗️ **Backend Development** | 🔧 **System Design** | 🧮 **Problem Solving** |
-|:---:|:---:|:---:|
-| RESTful API Design | Microservices Architecture | Data Structures |
-| Database Optimization | Scalability Patterns | Algorithm Design |
-| Spring Boot Ecosystem | Distributed Systems | Complexity Analysis |
-| Authentication & Security | Caching Strategies | Competitive Programming |
+I consistently solve complex algorithmic challenges to maintain sharp problem-solving fundamentals. Strong command over Data Structures, Graph Theory, and Dynamic Programming.
 
-</div>
+- **LeetCode Profile:** [Puspharaj-7](https://leetcode.com/puspharaj-7)
+- **Primary Focus:** Algorithm Optimization, Space-Time Complexity Analysis.
 
-<br/>
+</details>
 
-## 🌟 What Drives Me
+---
 
-- 💡 **Innovation**: Continuously exploring cutting-edge technologies and design patterns
-- 🎯 **Quality**: Writing clean, maintainable, and well-documented code
-- 📚 **Learning**: Committed to continuous improvement and knowledge sharing
-- 🤝 **Collaboration**: Building meaningful solutions through teamwork
-- 🚀 **Impact**: Creating systems that scale and deliver real value
+### � Current Status
 
-<br/>
-
-## 📫 Let's Connect
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puspharaj-7)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/puspharaj-7)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/puspharaj-s)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
-
-</div>
-
-<br/>
-
-<div align="center">
-  
-### 💭 Developer Quote
-  
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
-<br/>
+- 🏗 **Currently Building:** A lightweight distributed caching layer for analytical workloads.
+- 🤝 **Open to Collaboration:** Backend performance optimization projects, scalable architecture design, and open-source contributions.
+- � **Ask me about:** Spring Boot internals, database indexing, and microservice decomposition strategies.
 
 ---
 
 <div align="center">
-  
-*"First, solve the problem. Then, write the code."* — John Johnson
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
-
+  <p>Visitor count: <img src="https://profile-counter.glitch.me/puspharaj-7/count.svg" alt="Profile Views" style="vertical-align: middle;" /></p>
+  <p><i>Designing systems that scale.</i></p>
 </div>
 
 
