@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:000d12,70:001a1f,100:00e5ff&height=220&section=header&text=Puspharaj&fontSize=70&fontColor=00e5ff&fontAlignY=45&animation=twinkling&stroke=00e5ff&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:000d12,70:001a1f,100:00e5ff&height=260&section=header&text=PUSPHARAJ&fontSize=88&fontColor=4dd9f0&fontAlignY=50&animation=twinkling&stroke=4dd9f0&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
 
 <br/>
 
 <!-- WELCOME + BOOT SEQUENCE -->
-[![welcome](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1800&pause=600&color=00e5ff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%E2%96%B8+%5B+WELCOME+TO+MY+COMMAND+CENTER+%5D+%E2%97%82;%E2%96%B8+%5B+GLAD+YOU+ARE+HERE+%E2%80%94+LOOK+AROUND+%5D+%E2%97%82;%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
+[![welcome](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1800&pause=600&color=4dd9f0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%E2%96%B8+%5B+WELCOME+TO+MY+COMMAND+CENTER+%5D+%E2%97%82;%E2%96%B8+%5B+GLAD+YOU+ARE+HERE+%E2%80%94+LOOK+AROUND+%5D+%E2%97%82;%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
 
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4dd9f0,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -21,7 +21,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+01+%5D%20%20AI+CORE+IDENTITY+PANEL%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+01+%5D%20%20AI+CORE+IDENTITY+PANEL%20%E2%97%88&fontSize=17&fontColor=4dd9f0&fontAlign=50&fontAlignY=62&stroke=4dd9f0&strokeWidth=1" width="88%"/>
 </div>
 
 <br/>
@@ -31,25 +31,27 @@
 <td width="56%" valign="top">
 
 ```text
-╭─────────────────────────────────────────────────────────╮
-│ ▣ NEURAL_IDENTITY_PROTOCOL :: INITIALIZING...           │
+```text
+┌─────────────────────────────────────────────────────────┐
+│ ◈ USER_IDENTIFICATION                                   │
 ├─────────────────────────────────────────────────────────┤
-│  ▶ IDENTIFIER  :: Puspharaj                             │
-│  ▶ DESIGNATION :: Java Full Stack Engineer              │
-│  ▶ CLEARANCE   :: Level 9 - Omega Root Access           │
-│  ▶ SPECIALTY   :: AI-Enhanced Backend Architecture      │
+│  ▶ NAME        :: Puspharaj                             │
+│  ▶ ROLE        :: Java Full Stack Engineer              │
+│  ▶ AUTH        :: Level 9 — Root Access                 │
+│  ▶ CORE        :: Backend & Microservices               │
 ├─────────────────────────────────────────────────────────┤
-│ ▣ CORE_PROCESSING_DIRECTIVES :: ACTIVE_THREADS          │
+│ ◈ CORE_DIRECTIVES                                       │
 ├─────────────────────────────────────────────────────────┤
-│  ▰▰▰▰▱  Architecting high-performance adaptive APIs     │
-│  ▰▰▰▰▰  Designing fault-tolerant scalable systems       │
-│  ▰▰▰▱▱  Optimizing complex database query engines       │
-│  ▰▰▰▰▱  Ensuring maximum system uptime & scale          │
+│  ▸  Engineer high-performance APIs                      │
+│  ▸  Design robust scalable systems                      │
+│  ▸  Optimize database architectures                     │
+│  ▸  Maintain maximum system uptime                      │
+│  ▸  Build production-grade software                     │
 ├─────────────────────────────────────────────────────────┤
-│  > ARC_REACTOR_CORE         [ ██████████ ]  100%        │
-│  > QUANTUM_NEURAL_NET       [ ██████████ ]  ONLINE      │
-│  > MACRO_INFRASTRUCTURE     [ ██████████ ]  NOMINAL     │
-╰─────────────────────────────────────────────────────────╯
+│  > ARC REACTOR  ●  ONLINE                               │
+│  > JARVIS       ●  LISTENING                            │
+│  > SYSTEMS      ●  ALL NOMINAL                          │
+└─────────────────────────────────────────────────────────┘
 ```
 
 </td>
@@ -59,7 +61,7 @@
 
 <br/>
 
-[![status](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1500&color=00e5ff&center=true&vCenter=true&width=250&height=22&lines=%E2%97%88+STARK+INDUSTRIES+%2F%2F+AUTHORIZED+%E2%97%88;%E2%97%88+NEURAL+LINK+%2F%2F+ESTABLISHED+%E2%97%88;%E2%97%88+AI+CORE+%2F%2F+SYNCHRONIZED+%E2%97%88)](https://github.com/puspharaj-7)
+[![status](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1500&color=4dd9f0&center=true&vCenter=true&width=250&height=22&lines=%E2%97%88+STARK+INDUSTRIES+%2F%2F+AUTHORIZED+%E2%97%88;%E2%97%88+DATA+LINK+%2F%2F+ESTABLISHED+%E2%97%88;%E2%97%88+SYSTEMS+%2F%2F+SYNCHRONIZED+%E2%97%88)](https://github.com/puspharaj-7)
 
 </td>
 </tr>
@@ -69,17 +71,17 @@
 
 <div align="center">
 
-![](https://img.shields.io/badge/SYS.ROLE-JAVA%20FULL%20STACK-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=openjdk)&nbsp;
-![](https://img.shields.io/badge/CORE.FOCUS-BACKEND%20%26%20AI%20SYSTEMS-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=spring)&nbsp;
-![](https://img.shields.io/badge/AUTH.LEVEL-OMEGA%20ROOT-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=shieldsdotio)&nbsp;
-![](https://img.shields.io/badge/AI.STATUS-SYNCHRONIZED-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=statuspage)
+![](https://img.shields.io/badge/ROLE-Full%20Stack%20Engineer-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=openjdk)&nbsp;
+![](https://img.shields.io/badge/FOCUS-Backend%20%26%20APIs-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=spring)&nbsp;
+![](https://img.shields.io/badge/CLEARANCE-Level%209%20Root-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=shieldsdotio)&nbsp;
+![](https://img.shields.io/badge/STATUS-Operational-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=statuspage)
 
 </div>
 
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4dd9f0,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -89,29 +91,29 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+02+%5D%20%20TECHNOLOGY+REACTOR+GRID%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+02+%5D%20%20TECHNOLOGY+REACTOR+GRID%20%E2%97%88&fontSize=17&fontColor=4dd9f0&fontAlign=50&fontAlignY=62&stroke=4dd9f0&strokeWidth=1" width="88%"/>
 </div>
 
 <br/>
 
 <details open>
 <summary>
-<img src="https://img.shields.io/badge/%20🔵%20CORE%20REACTOR-BACKEND%20SYSTEMS-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff"/>
+<img src="https://img.shields.io/badge/%20🔵%20CORE%20REACTOR-BACKEND%20SYSTEMS-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0"/>
 </summary>
 <br/>
 <div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,python,mysql,nodejs,express,postgres,mongodb,redis&theme=dark&perline=9"/>
 <br/><br/>
 
-![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=00e5ff)&nbsp;
-![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=00e5ff)&nbsp;
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=00e5ff)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=00e5ff)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=00e5ff)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=00e5ff)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=00e5ff)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=00e5ff)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=00e5ff)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=4dd9f0)&nbsp;
+![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=4dd9f0)&nbsp;
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=4dd9f0)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4dd9f0)&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=4dd9f0)&nbsp;
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=4dd9f0)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4dd9f0)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=4dd9f0)&nbsp;
+![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=4dd9f0)
 
 </div>
 <br/>
@@ -126,15 +128,15 @@
 <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,vite,nextjs&theme=dark&perline=9"/>
 <br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=00e5ff)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=00e5ff)&nbsp;
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=00e5ff)&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=00e5ff)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=00e5ff)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=00e5ff)&nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=00e5ff)&nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=00e5ff)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=00e5ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=4dd9f0)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=4dd9f0)&nbsp;
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=4dd9f0)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=4dd9f0)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=4dd9f0)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=4dd9f0)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=4dd9f0)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=4dd9f0)&nbsp;
+![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=4dd9f0)
 
 </div>
 <br/>
@@ -176,7 +178,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+03+%5D%20%20LIVE+TELEMETRY+COMMAND+CENTER%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+03+%5D%20%20LIVE+TELEMETRY+COMMAND+CENTER%20%E2%97%88&fontSize=17&fontColor=4dd9f0&fontAlign=50&fontAlignY=62&stroke=4dd9f0&strokeWidth=1" width="88%"/>
 </div>
 
 <br/>
@@ -184,23 +186,23 @@
 <div align="center">
 
 <!-- Row 1: GitHub Stats + Streak -->
-<img src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&bg_color=000000&title_color=00e5ff&text_color=a0d8ef&icon_color=00e5ff&hide_border=false&border_color=00e5ff&border_radius=0&include_all_commits=true&count_private=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&bg_color=000000&title_color=4dd9f0&text_color=a0d8ef&icon_color=4dd9f0&hide_border=false&border_color=4dd9f0&border_radius=0&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&background=000000&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&sideLabels=00e5ff&dates=4dd9f0&stroke=00e5ff&border=00e5ff&sideNums=ffffff&currStreakNum=ffffff&hide_border=false&border_radius=0" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&background=000000&ring=4dd9f0&fire=4dd9f0&currStreakLabel=4dd9f0&sideLabels=4dd9f0&dates=4dd9f0&stroke=4dd9f0&border=4dd9f0&sideNums=ffffff&currStreakNum=ffffff&hide_border=false&border_radius=0" height="170"/>
 
 <br/><br/>
 
 <!-- Row 2: Languages + LeetCode -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&bg_color=000000&title_color=00e5ff&text_color=a0d8ef&hide_border=false&border_color=00e5ff&border_radius=0&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&bg_color=000000&title_color=4dd9f0&text_color=a0d8ef&hide_border=false&border_color=4dd9f0&border_radius=0&langs_count=8" height="170"/>
 &nbsp;
 <a href="https://leetcode.com/puspharaj-7">
-<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Share+Tech+Mono&ext=contest&border=1&radius=0&bg=000000&color=00e5ff" height="170"/>
+<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Share+Tech+Mono&ext=contest&border=1&radius=0&bg=000000&color=4dd9f0" height="170"/>
 </a>
 
 <br/><br/>
 
 <!-- Trophy Cabinet -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=32&text=%E2%96%B8+ACHIEVEMENT+VAULT+%2F%2F+TROPHY+CABINET+%E2%97%82&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=32&text=%E2%96%B8+ACHIEVEMENT+VAULT+%2F%2F+TROPHY+CABINET+%E2%97%82&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=65" width="88%"/>
 
 <br/><br/>
 
@@ -209,7 +211,7 @@
 <br/><br/>
 
 <!-- Contribution Snake -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=32&text=%E2%96%B8+CONTRIBUTION+NETWORK+%2F%2F+ACTIVITY+MATRIX+%E2%97%82&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=32&text=%E2%96%B8+CONTRIBUTION+NETWORK+%2F%2F+ACTIVITY+MATRIX+%E2%97%82&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=65" width="88%"/>
 
 <br/><br/>
 
@@ -222,7 +224,7 @@
 <br/><br/>
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=00e5ff&line=00e5ff&point=ffffff&area=true&area_color=00e5ff&hide_border=false&border_color=00e5ff&custom_title=SYSTEM+CONTRIBUTIONS+%2F%2F+GLOBAL+HEATMAP" width="96%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=4dd9f0&line=4dd9f0&point=ffffff&area=true&area_color=4dd9f0&hide_border=false&border_color=4dd9f0&custom_title=SYSTEM+CONTRIBUTIONS+%2F%2F+GLOBAL+HEATMAP" width="96%"/>
 
 </div>
 
@@ -239,7 +241,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+04+%5D%20%20PERFORMANCE+METRICS%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+04+%5D%20%20PERFORMANCE+METRICS%20%E2%97%88&fontSize=17&fontColor=4dd9f0&fontAlign=50&fontAlignY=62&stroke=4dd9f0&strokeWidth=1" width="88%"/>
 </div>
 
 <br/>
@@ -258,8 +260,8 @@
 
 <br/><br/>
 
-![](https://img.shields.io/github/followers/puspharaj-7?color=000000&labelColor=000d12&logo=github&logoColor=00e5ff&label=FOLLOWERS&style=for-the-badge)&nbsp;
-![](https://img.shields.io/github/stars/puspharaj-7?color=000000&labelColor=000d12&logo=github&logoColor=00e5ff&label=STARS&style=for-the-badge&affiliations=OWNER)
+![](https://img.shields.io/github/followers/puspharaj-7?color=000000&labelColor=000d12&logo=github&logoColor=4dd9f0&label=FOLLOWERS&style=for-the-badge)&nbsp;
+![](https://img.shields.io/github/stars/puspharaj-7?color=000000&labelColor=000d12&logo=github&logoColor=4dd9f0&label=STARS&style=for-the-badge&affiliations=OWNER)
 
 </div>
 
@@ -276,26 +278,26 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+05+%5D%20%20ESTABLISH+COMM-LINK%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+05+%5D%20%20ESTABLISH+COMM-LINK%20%E2%97%88&fontSize=17&fontColor=4dd9f0&fontAlign=50&fontAlignY=62&stroke=4dd9f0&strokeWidth=1" width="88%"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00e5ff&labelColor=000d12)](https://www.linkedin.com/in/puspharaj-s/)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=4dd9f0&labelColor=000d12)](https://www.linkedin.com/in/puspharaj-s/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00e5ff&labelColor=000d12)](https://github.com/puspharaj-7)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=4dd9f0&labelColor=000d12)](https://github.com/puspharaj-7)
 &nbsp;
-[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=00e5ff&labelColor=000d12)](https://leetcode.com/puspharaj-7)
+[![LeetCode](https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=4dd9f0&labelColor=000d12)](https://leetcode.com/puspharaj-7)
 
 <br/><br/>
 
-[![typing2](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=00e5ff&center=true&vCenter=true&width=620&height=28&lines=%E2%96%B8+Open+to+exciting+backend+engineering+opportunities+%E2%97%82;%E2%96%B8+Building+systems+that+scale+to+millions+%E2%97%82;%E2%96%B8+Reach+out+%E2%80%94+JARVIS+will+notify+me+immediately+%E2%97%82)](https://www.linkedin.com/in/puspharaj-s/)
+[![typing2](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=3000&pause=1000&color=4dd9f0&center=true&vCenter=true&width=620&height=28&lines=%E2%96%B8+Open+to+exciting+backend+engineering+opportunities+%E2%97%82;%E2%96%B8+Building+systems+that+scale+to+millions+%E2%97%82;%E2%96%B8+Reach+out+%E2%80%94+JARVIS+will+notify+me+immediately+%E2%97%82)](https://www.linkedin.com/in/puspharaj-s/)
 
 <br/><br/>
 
-[![views](https://komarev.com/ghpvc/?username=puspharaj-7&color=000000&style=for-the-badge&label=UPLINK+REQUESTS&logoColor=00e5ff)](https://github.com/puspharaj-7)
+[![views](https://komarev.com/ghpvc/?username=puspharaj-7&color=000000&style=for-the-badge&label=UPLINK+REQUESTS&logoColor=4dd9f0)](https://github.com/puspharaj-7)
 
 </div>
 
@@ -307,14 +309,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4dd9f0,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![quote](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=5000&pause=2000&color=00ffff&center=true&vCenter=true&width=760&height=35&lines=%22You+can+take+away+my+suits%2C+but+you+can+never+take+away+the+Iron+Man.%22)](https://github.com/puspharaj-7)
+[![quote](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=5000&pause=2000&color=4dd9f0&center=true&vCenter=true&width=760&height=35&lines=%22You+can+take+away+my+suits%2C+but+you+can+never+take+away+the+Iron+Man.%22)](https://github.com/puspharaj-7)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002233,100:000000&height=80&text=PUSPHARAJ+·+STARK.PROTOCOL+v9.0+·+ALL+SYSTEMS+NOMINAL&fontSize=14&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=1&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=50&text=PUSPHARAJ+·+STARK.PROTOCOL+v9.0+·+ALL+SYSTEMS+NOMINAL&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=60&stroke=4dd9f0&strokeWidth=1" width="100%"/>
 
 </div>
