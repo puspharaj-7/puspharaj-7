@@ -1,15 +1,11 @@
 <div align="center">
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
-     ║              STARK.PROTOCOL — MASTER HEADER                 ║
-     ╚══════════════════════════════════════════════════════════════╝ -->
-
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:000d12,70:001a1f,100:000000&height=260&section=header&text=PUSPHARAJ&fontSize=88&fontColor=00e5ff&fontAlignY=50&animation=twinkling&stroke=00e5ff&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
 
 <br/>
 
-<!-- BOOT SEQUENCE -->
-[![boot](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1800&pause=600&color=00e5ff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=110&lines=%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHORIZATION+%3A+LEVEL+9+ROOT+ACCESS+%E2%9C%93+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
+<!-- WELCOME + BOOT SEQUENCE -->
+[![welcome](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1800&pause=600&color=00e5ff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%E2%96%B8+%5B+WELCOME+TO+MY+COMMAND+CENTER+%5D+%E2%97%82;%E2%96%B8+%5B+GLAD+YOU+ARE+HERE+%E2%80%94+LOOK+AROUND+%5D+%E2%97%82;%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
 
 <br/>
 
