@@ -47,10 +47,6 @@
 │  ▸  Optimize database architectures                     │
 │  ▸  Maintain maximum system uptime                      │
 │  ▸  Build production-grade software                     │
-├─────────────────────────────────────────────────────────┤
-│  > ARC REACTOR  ●  ONLINE                               │
-│  > JARVIS       ●  LISTENING                            │
-│  > SYSTEMS      ●  ALL NOMINAL                          │
 └─────────────────────────────────────────────────────────┘
 ```
 
