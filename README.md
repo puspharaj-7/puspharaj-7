@@ -1,126 +1,151 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=HELLO+I'M+PUSPHARAJ" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
 </div>
+
+<br/>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake.svg">
-  </picture>
+  
+### 👨‍💻 Building Scalable Backend Systems & High-Performance APIs
+
+*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*  
+— Robert C. Martin
+
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
-</div>
+<br/>
 
-## DECRYPTING PROFILE
+## 🎯 About Me
 
-```shell
-puspharaj@matrix:~$ whoami
-Full Stack Builder | Backend Architect | UI/UX Engineer
+<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
 
-puspharaj@matrix:~$ load_modules
-✓ Full Stack Applications
-✓ Backend APIs & Event-Driven Services
-✓ Cloud & Containerized Infrastructure
-✓ Product Development
+```yaml
+name: Puspharaj
+role: Java Full Stack Developer
+focus: Backend Engineering & System Design
+education: Mechanical Engineering Background
+passion: Building Robust, Scalable Solutions
 
-puspharaj@matrix:~$ status
-SYSTEM READY
+current_focus:
+  - Advanced DSA & Problem Solving
+  - Distributed Systems Architecture
+  - Microservices Design Patterns
+  - Spring Boot Ecosystem Mastery
+
+philosophy: |
+  "Code is poetry written for machines,
+   but read by humans."
 ```
 
+<br clear="all"/>
+
+## 🛠️ Technology Stack
+
+### Core Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" width="65" alt="Java" title="Java"/>
+  <img src="https://img.icons8.com/color/96/000000/spring-logo.png" width="65" alt="Spring Boot" title="Spring Boot"/>
+  <img src="https://img.icons8.com/color/96/000000/python.png" width="65" alt="Python" title="Python"/>
+  <img src="https://img.icons8.com/color/96/000000/mysql-logo.png" width="65" alt="MySQL" title="MySQL"/>
+  <img src="https://img.icons8.com/color/96/000000/nodejs.png" width="65" alt="Node.js" title="Node.js"/>
+</p>
+
+### Frontend & Web Technologies
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/javascript.png" width="65" alt="JavaScript" title="JavaScript"/>
+  <img src="https://img.icons8.com/color/96/000000/react-native.png" width="65" alt="React" title="React"/>
+  <img src="https://img.icons8.com/color/96/000000/html-5.png" width="65" alt="HTML5" title="HTML5"/>
+  <img src="https://img.icons8.com/color/96/000000/css3.png" width="65" alt="CSS3" title="CSS3"/>
+  <img src="https://img.icons8.com/color/96/000000/bootstrap.png" width="65" alt="Bootstrap" title="Bootstrap"/>
+</p>
+
+### Development Tools
+
+<p align="center">
+  <img src="https://img.icons8.com/color/96/intellij-idea.png" width="65" alt="IntelliJ IDEA" title="IntelliJ IDEA"/>
+  <img src="https://img.icons8.com/color/96/visual-studio-code-2019.png" width="65" alt="VS Code" title="VS Code"/>
+  <img src="https://img.icons8.com/color/96/git.png" width="65" alt="Git" title="Git"/>
+  <img src="https://img.icons8.com/color/96/github--v1.png" width="65" alt="GitHub" title="GitHub"/>
+  <img src="assets/antigravity.png" width="65" alt="Custom Tools" title="Custom Tools"/>
+</p>
+
+<br/>
+
+## 📈 Performance Metrics
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+
+### LeetCode Journey
+<img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Assistant&ext=contest" width="95%" alt="LeetCode Stats"/>
+
+<br/>
+
+### Contribution Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=ffffff&line=00ff1e&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="95%" alt="Contribution Graph"/>
+
 </div>
 
-## About Me
+<br/>
 
-- 🚀 Building **dynamic, modern, and highly interactive applications**
-- 🎨 Crafting immersive interfaces with **React, Next.js, and modern web rendering**
-- ⚙️ Architecting **scalable APIs, event-driven services, and real-time systems**
-- 🐳 Deploying robust and containerized infrastructure using **Docker, K8s, and Cloud providers**
-- 💡 Focused on **real-world products & SaaS** development
+## 🎓 Areas of Expertise
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+
+| 🏗️ **Backend Development** | 🔧 **System Design** | 🧮 **Problem Solving** |
+|:---:|:---:|:---:|
+| RESTful API Design | Microservices Architecture | Data Structures |
+| Database Optimization | Scalability Patterns | Algorithm Design |
+| Spring Boot Ecosystem | Distributed Systems | Complexity Analysis |
+| Authentication & Security | Caching Strategies | Competitive Programming |
+
 </div>
 
-## 🛠 Tech Stack
+<br/>
 
-### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+## 🌟 What Drives Me
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+- 💡 **Innovation**: Continuously exploring cutting-edge technologies and design patterns
+- 🎯 **Quality**: Writing clean, maintainable, and well-documented code
+- 📚 **Learning**: Committed to continuous improvement and knowledge sharing
+- 🤝 **Collaboration**: Building meaningful solutions through teamwork
+- 🚀 **Impact**: Creating systems that scale and deliver real value
 
-### Backend Architecture
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+<br/>
 
-### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+## 📫 Let's Connect
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
-</div>
 
-## Current Focus
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/puspharaj-7)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/puspharaj-7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](#)
 
-- Architecting high-performance backends and real-time systems
-- Designing interactive UIs with immersive aesthetics
-- Enhancing system automation and DevOps workflows
-- Exploring Microservices architecture and Event-Driven Design
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
-</div>
-
-## 📊 System Analytics
-
-<div align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+  
+### 💭 Developer Quote
+  
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 <br/>
 
+---
+
 <div align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%" />
-</div>
+  
+*"First, solve the problem. Then, write the code."* — John Johnson
 
 <br/>
 
-<div align="center">
-  <a href="https://github.com/puspharaj-7">
-    <img src="https://komarev.com/ghpvc/?username=puspharaj-7&color=00FF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
-</div>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/puspharaj-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/puspharaj-7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
