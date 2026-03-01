@@ -1,135 +1,126 @@
 <div align="center">
-  <!-- 4K High-Quality 3D Render Banner -->
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?q=80&w=2564&auto=format&fit=crop" width="100%" height="250" style="object-fit: cover; border-radius: 12px; margin-bottom: 15px;" alt="4K 3D Render Banner"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=800&size=40&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=80&lines=HELLO+I'M+PUSPHARAJ" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&height=50&lines=Building+Interactive+Full-Stack+Web+Apps;Crafting+Stunning+Modern+UIs+%26+3D+Visuals;Architecting+High-Performance+Backends;Driving+Scalability+and+Smooth+UX" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
+
+## DECRYPTING PROFILE
+
+```shell
+puspharaj@matrix:~$ whoami
+Full Stack Builder | Backend Architect | UI/UX Engineer
+
+puspharaj@matrix:~$ load_modules
+✓ Full Stack Applications
+✓ Backend APIs & Event-Driven Services
+✓ Cloud & Containerized Infrastructure
+✓ Product Development
+
+puspharaj@matrix:~$ status
+SYSTEM READY
+```
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
+
+## About Me
+
+- 🚀 Building **dynamic, modern, and highly interactive applications**
+- 🎨 Crafting immersive interfaces with **React, Next.js, and modern web rendering**
+- ⚙️ Architecting **scalable APIs, event-driven services, and real-time systems**
+- 🐳 Deploying robust and containerized infrastructure using **Docker, K8s, and Cloud providers**
+- 💡 Focused on **real-world products & SaaS** development
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
+
+## 🛠 Tech Stack
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### Backend Architecture
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+
+### Database & Cloud
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
+
+## Current Focus
+
+- Architecting high-performance backends and real-time systems
+- Designing interactive UIs with immersive aesthetics
+- Enhancing system automation and DevOps workflows
+- Exploring Microservices architecture and Event-Driven Design
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
+
+## 📊 System Analytics
+
+<div align="center">
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/puspharaj-7">
+    <img src="https://komarev.com/ghpvc/?username=puspharaj-7&color=00FF00&style=flat-square&label=Profile+Views" alt="Profile Views" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/puspharaj-s/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/puspharaj-7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="https://github.com/puspharaj-7"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:your.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
-</div>
-
-<div align="center">
-  <h2>🚀 Full Stack Visionary</h2>
-  <p>
-    I engineer <b>dynamic, modern, and highly interactive applications</b> from the ground up.<br/>
-    As a <b>Full Stack Developer</b>, I specialize in combining <b>stunning 3D UIs, 4K visual quality</b>, and smooth animations <br/>
-    with <b>robust, scalable, event-driven backend systems</b>. 
-  </p>
-</div>
-
-### 🎮 Interactive Tech Stack (Click to Expand)
-
-<details>
-  <summary><b>✨ Frontend, 3D & UI/UX</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,vite,css,html,figma,framer&theme=dark" alt="Frontend & UI/UX" />
-    </a>
-  </p>
-  <p align="center"><i>Building immersive interfaces with React, Next.js, and modern web rendering.</i></p>
-</details>
-
-<details>
-  <summary><b>⚙️ Backend & Architecture</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express,py,graphql,nestjs&theme=dark" alt="Backend" />
-    </a>
-  </p>
-  <p align="center"><i>Architecting scalable APIs, event-driven services, and rapid real-time systems.</i></p>
-</details>
-
-<details>
-  <summary><b>🗄️ Database, Cloud & Infrastructure</b></summary>
-  <br/>
-  <p align="center">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,aws,docker,kubernetes,git,linux&theme=dark" alt="Cloud & Infra" />
-    </a>
-  </p>
-  <p align="center"><i>Deploying robust and containerized infrastructure using Docker, K8s, and leading cloud providers.</i></p>
-</details>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
-</div>
-
-<h2 align="center">🏆 GitHub Gamification & Stats</h2>
-
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=puspharaj-7&theme=radical&row=1&column=7&margin-w=15&margin-h=15&no-frame=1&no-bg=1" alt="Trophy" />
-  </a>
-</div>
-
-<br/>
-
-<div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15" width="48%" />
-  <img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=tokyonight&font=Outfit&ext=contest&border=0&radius=15" width="48%" alt="LeetCode Stats"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.svg" alt="separator" width="100%" />
-</div>
-
-<h2 align="center">🏗️ Dynamic System Architecture</h2>
-
-<p align="center"><i>A visual representation of an interactive, robust Full-Stack architecture.</i></p>
-
-```mermaid
-graph TD;
-    UI[Frontend Client<br/>React / Next.js / Three.js] -->|REST / GraphQL| API[API Gateway]
-
-    API -->|Auth Valid| App1[Core Backend API<br/>Spring Boot / Node.js]
-    API -.->|Real-time| WS[WebSockets<br/>Live Updates]
-
-    App1 -.->|Events| Kafka{{Message Broker<br/>Kafka / Redis PubSub}}
-    Kafka -.->|Workers| Async[Async Processors]
-
-    App1 --> DB[(Relational DB<br/>PostgreSQL)]
-    App1 --> Cache[(In-Memory Cache<br/>Redis)]
-    Async --> NoSQL[(NoSQL DB<br/>MongoDB)]
-
-    classDef frontend fill:#3b82f6,stroke:#1d4ed8,stroke-width:2px,color:#fff;
-    classDef gateway fill:#8b5cf6,stroke:#6d28d9,stroke-width:2px,color:#fff;
-    classDef backend fill:#10b981,stroke:#047857,stroke-width:2px,color:#fff;
-    classDef db fill:#f59e0b,stroke:#b45309,stroke-width:2px,color:#fff;
-    classDef broker fill:#ef4444,stroke:#b91c1c,stroke-width:2px,color:#fff;
-
-    class UI frontend;
-    class API,WS gateway;
-    class App1,Async backend;
-    class DB,Cache,NoSQL db;
-    class Kafka broker;
-```
-
-<br/>
-
-<div align="center">
-  <p><i>Building the web. Beautifully. Flawlessly.</i></p>
-  <a href="https://github.com/puspharaj-7">
-    <img src="https://komarev.com/ghpvc/?username=puspharaj-7&color=blueviolet" alt="Profile Views" />
-  </a>
 </div>
