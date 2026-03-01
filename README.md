@@ -16,75 +16,57 @@
 
 <br/>
 
-<!-- ╔══════════════════════════════════════════════════════════════╗
+╔══════════════════════════════════════════════════════════════╗
      ║           01 · AI CORE IDENTITY PANEL                       ║
      ╚══════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+01+%5D%20%20AI+CORE+IDENTITY+PANEL%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
 </div>
-
 <br/>
-
-<table align="center" width="96%">
+<!-- ── LEFT: data panel as image rows | RIGHT: holographic GIF ── -->
+<table align="center" width="94%">
 <tr>
-<td width="56%" valign="top">
-
-```
-┌─────────────────────────────────────────┐
-│         USER_IDENTIFICATION             │
-├─────────────────────────────────────────┤
-│  NAME       :  Puspharaj               │
-│  ROLE       :  Java Full Stack Engineer │
-│  AUTH       :  Level 9 — Root Access    │
-│  CORE       :  Backend & Microservices  │
-├─────────────────────────────────────────┤
-│         CORE_DIRECTIVES                 │
-├─────────────────────────────────────────┤
-│  ▸  Engineer high-performance APIs      │
-│  ▸  Design robust scalable systems      │
-│  ▸  Optimize database architectures     │
-│  ▸  Maintain maximum system uptime      │
-│  ▸  Build production-grade software     │
-├─────────────────────────────────────────┤
-│  ARC REACTOR  ●  ONLINE                 │
-│  JARVIS       ●  LISTENING              │
-│  SYSTEMS      ●  ALL NOMINAL            │
-└─────────────────────────────────────────┘
-```
-
-</td>
-<td width="44%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" alt="stark-lab"/>
-
+<td width="55%" valign="top" align="center">
+<!-- USER IDENTIFICATION header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000d12&height=30&text=USER_IDENTIFICATION&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65&stroke=00e5ff&strokeWidth=1" width="100%"/>
+<!-- Data rows as badges -->
 <br/>
-
-[![status](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=11&pause=2000&color=00e5ff&center=true&vCenter=true&width=250&height=22&lines=%E2%97%88+STARK+INDUSTRIES+%2F%2F+AUTHORIZED+%E2%97%88)](https://github.com/puspharaj-7)
-
+Show Image
+Show Image
+<br/>
+Show Image
+Show Image
+<br/><br/>
+<!-- CORE DIRECTIVES header -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000d12&height=30&text=CORE_DIRECTIVES&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65&stroke=00e5ff&strokeWidth=1" width="100%"/>
+<br/>
+Show Image
+Show Image
+Show Image
+Show Image
+Show Image
+<br/>
+<!-- SYSTEM STATUS footer -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000d12&height=30&text=SYSTEM_STATUS&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65&stroke=00e5ff&strokeWidth=1" width="100%"/>
+<br/>
+Show Image 
+Show Image 
+Show Image
+</td>
+<td width="45%" align="center" valign="middle">
+<!-- Holographic Iron Man lab GIF -->
+<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="96%" alt="stark-holographic-lab"/>
+<br/>
+Show Image
 </td>
 </tr>
 </table>
-
 <br/>
-
-<div align="center">
-
-![](https://img.shields.io/badge/ROLE-Full%20Stack%20Engineer-000000?style=flat-square&labelColor=000d12&color=000000&logoColor=00e5ff&logo=openjdk)&nbsp;
-![](https://img.shields.io/badge/FOCUS-Backend%20%26%20APIs-000000?style=flat-square&labelColor=000d12&color=000000&logoColor=00e5ff&logo=spring)&nbsp;
-![](https://img.shields.io/badge/CLEARANCE-Level%209%20Root-000000?style=flat-square&labelColor=000d12&color=000000&logoColor=00e5ff&logo=shieldsdotio)&nbsp;
-![](https://img.shields.io/badge/STATUS-Operational-000000?style=flat-square&labelColor=000d12&color=000000&logoColor=00e5ff&logo=statuspage)
-
-</div>
-
-<br/>
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
 </div>
-
 <br/>
-
+<!--
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║           02 · TECHNOLOGY REACTOR GRID                      ║
      ╚══════════════════════════════════════════════════════════════╝ -->
