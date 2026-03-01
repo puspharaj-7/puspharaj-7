@@ -69,7 +69,6 @@
 
 ![](https://img.shields.io/badge/ROLE-Full%20Stack%20Engineer-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=openjdk)&nbsp;
 ![](https://img.shields.io/badge/FOCUS-Backend%20%26%20APIs-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=spring)&nbsp;
-![](https://img.shields.io/badge/CLEARANCE-Level%209%20Root-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=shieldsdotio)&nbsp;
 ![](https://img.shields.io/badge/STATUS-Operational-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=4dd9f0&logo=statuspage)
 
 </div>
