@@ -4,7 +4,7 @@
      ║              STARK.PROTOCOL — MASTER HEADER                 ║
      ╚══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:000d12,70:001a1f,100:000000&height=260&section=header&text=PUSPHARAJ&fontSize=88&fontColor=00e5ff&fontAlignY=50&animation=twinkling&stroke=00e5ff&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0000,30:1a0000,60:001215,100:000000&height=260&section=header&text=PUSPHARAJ&fontSize=88&fontColor=00e5ff&fontAlignY=50&animation=twinkling&stroke=00e5ff&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=70&descColor=4dd9f0&descAlign=50" width="100%"/>
 
 <br/>
 
