@@ -1,63 +1,51 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=200&section=header&text=Puspharaj&fontSize=80&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117:00e5ff&height=200&section=header&text=Puspharaj&fontAlignY=35&fontSize=80&animation=fadeIn&fontColor=00e5ff&desc=J.A.R.V.I.S.%20PROTOCOL%20ACTIVATED%20//%20BACKEND%20ENGINEER&descAlignY=55&descSize=20" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=50&lines=Java+Full+Stack+Developer;Backend+Engineering+%26+System+Design;Microservices+%26+Cloud+Architecture;Building+Scalable+%26+Robust+Solutions" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=22&pause=1000&color=00e5ff&center=true&vCenter=true&width=800&height=50&lines=J.A.R.V.I.S.+System+Online...;Authenticating+User:+Puspharaj...;Access+Granted.+Welcome+Sir.;Loading+Backend+Architectures...;Initializing+Microservices...;All+Systems+Optimal." alt="Typing SVG" />
   </a>
 </div>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/puspharaj-7/puspharaj-7/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://media.giphy.com/media/L2XpXEZuq0EDLzwaT8/giphy.gif" width="400" alt="JARVIS HUD Animation"/>
 </div>
 
 <br/>
 
 <div align="center">
-  
-### 👨‍💻 Building Scalable Backend Systems & High-Performance APIs
-
-*"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."*  
-— Robert C. Martin
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
 </div>
 
-<br/>
-
-## 🎯 About Me
-
-<img align="right" src="assets/developer.gif" width="400" alt="Developer Animation" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);"/>
+## ⎔ SYSTEM DIAGNOSTICS: PROFILE.DAT
 
 ```yaml
-name: Puspharaj
-role: Java Full Stack Developer
-focus: Backend Engineering & System Design
-education: Mechanical Engineering Background
-passion: Building Robust, Scalable Solutions
+[USER_IDENTIFICATION]
+Name           : Puspharaj
+Designation    : Java Full Stack Engineer & Backend Architect
+Authorization  : Level 9 (Root Access)
 
-current_focus:
-  - Advanced DSA & Problem Solving
-  - Distributed Systems Architecture
-  - Microservices Design Patterns
-  - Spring Boot Ecosystem Mastery
+[CORE_DIRECTIVES]
+> Engineer high-performance APIs and distributed networks.
+> Design scalable Microservices & Cloud Architectures.
+> Implement advanced Data Structures and Algorithms.
+> Maintain maximum system uptime and elegant code structures.
 
-philosophy: >
-  "Code is poetry written for machines,
-   but read by humans."
+[SYSTEM_PHILOSOPHY]
+"Sometimes you gotta run before you can walk."
+— Tony Stark
 ```
 
-<br clear="all"/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
 
-## 🛠️ Interactive Technology Stack
-*(Click categories to expand)*
+## ⚙️ WEAPONRY & TECH MODULES
+*(Click to unpack modules)*
 
 <details open>
-  <summary><b>🔥 Core & Backend Technologies</b></summary>
+  <summary><b>� CORE REACTOR: Backend Systems</b></summary>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -67,7 +55,7 @@ philosophy: >
 </details>
 
 <details>
-  <summary><b>✨ Frontend & Web</b></summary>
+  <summary><b>🟢 HOLOGRAPHIC INTERFACE: Frontend Modules</b></summary>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -77,7 +65,7 @@ philosophy: >
 </details>
 
 <details>
-  <summary><b>⚙️ Tools & Infrastructure</b></summary>
+  <summary><b>🟡 STARK INFRASTRUCTURE: Cloud & Tools</b></summary>
   <br/>
   <p align="center">
     <a href="https://skillicons.dev">
@@ -88,62 +76,38 @@ philosophy: >
 
 <br/>
 
-## 📈 Real-Time Performance Metrics
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
+</div>
+
+## 📊 LIVE TELEMETRY
 
 <div align="center">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&theme=tokyonight&hide_border=true&border_radius=15&background=0D1117" width="48%" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&bg_color=0D1117&title_color=00e5ff&text_color=FFFFFF&icon_color=00e5ff&hide_border=true&border_radius=15" width="48%" />
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&background=0D1117&theme=dark&ring=00e5ff&fire=00e5ff&currStreakLabel=00e5ff&hide_border=true&border_radius=15" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117" width="48%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&bg_color=0D1117&title_color=00e5ff&text_color=FFFFFF&hide_border=true&border_radius=15" width="48%" />
   <a href="https://leetcode.com/puspharaj-7">
-    <img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=tokyonight&font=Assistant&ext=contest&border=0&radius=15" width="48%" alt="LeetCode Stats"/>
+    <img src="https://leetcard.jacoblin.cool/puspharaj-7?theme=dark&font=Orbitron&ext=contest&border=0&radius=15" width="48%" alt="LeetCode Stats"/>
   </a>
 </div>
 
 <br/>
 
-### Contribution Activity
+### SERVER ACTIVITY
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=0D1117&color=00ff1e&line=00ff1e&point=ffffff&area=true&hide_border=true&custom_title=Annual%20Contributions" width="100%" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=0D1117&color=00e5ff&line=00e5ff&point=FFFFFF&area=true&hide_border=true&custom_title=System%20Contributions" width="100%" alt="Contribution Graph"/>
 </div>
 
-<br/>
-
-## 🎓 Areas of Expertise
-
 <div align="center">
-
-| 🏗️ **Backend Development** | 🔧 **System Design** | 🧮 **Problem Solving** |
-|:---:|:---:|:---:|
-| RESTful API Design | Microservices Architecture | Data Structures |
-| Database Optimization | Scalability Patterns | Algorithm Design |
-| Spring Boot Ecosystem | Distributed Systems | Complexity Analysis |
-| Authentication & Security | Caching Strategies | Competitive Programming |
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.svg" alt="separator" width="100%" />
 </div>
 
-<br/>
-
-## 🌟 What Drives Me
-
-<details>
-  <summary><b>Click to see my core values</b></summary>
-  <ul>
-    <li>💡 <b>Innovation</b>: Continuously exploring cutting-edge technologies and design patterns</li>
-    <li>🎯 <b>Quality</b>: Writing clean, maintainable, and well-documented code</li>
-    <li>📚 <b>Learning</b>: Committed to continuous improvement and knowledge sharing</li>
-    <li>🤝 <b>Collaboration</b>: Building meaningful solutions through teamwork</li>
-    <li>🚀 <b>Impact</b>: Creating systems that scale and deliver real value</li>
-  </ul>
-</details>
-
-<br/>
-
-## 📫 Let's Connect
+## � ESTABLISH COMM-LINK
 
 <div align="center">
 
@@ -158,16 +122,8 @@ philosophy: >
 
 <div align="center">
   
-### 💭 Random Developer Quote
-  
-<a href="#">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote">
-</a>
-
-<br/><br/>
-
 <a href="https://github.com/puspharaj-7">
-  <img src="https://komarev.com/ghpvc/?username=puspharaj-7&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=puspharaj-7&color=00e5ff&style=for-the-badge&label=PULL+REQUESTS+(VIEWS)" alt="Profile Views" />
 </a>
 
 </div>
@@ -178,11 +134,11 @@ philosophy: >
 
 <div align="center">
   
-*"First, solve the problem. Then, write the code."* — John Johnson
+*"You can take away my suits, you can take away my home, but there's one thing you can never take away from me. I am Iron Man."*
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,18,20,24&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00e5ff:0D1117&height=100&section=footer" width="100%"/>
 
 </div>
 
