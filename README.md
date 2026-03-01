@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:000d12,70:001a1f,100:000000&height=260&section=header&text=PUSPHARAJ&fontSize=88&fontColor=00e5ff&fontAlignY=50&animation=twinkling&stroke=00e5ff&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:000d12,70:001a1f,100:00e5ff&height=220&section=header&text=Puspharaj&fontSize=70&fontColor=00e5ff&fontAlignY=45&animation=twinkling&stroke=00e5ff&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
 
 <br/>
 
 <!-- WELCOME + BOOT SEQUENCE -->
-[![welcome](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=1800&pause=600&color=00e5ff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%E2%96%B8+%5B+WELCOME+TO+MY+COMMAND+CENTER+%5D+%E2%97%82;%E2%96%B8+%5B+GLAD+YOU+ARE+HERE+%E2%80%94+LOOK+AROUND+%5D+%E2%97%82;%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
+[![welcome](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1800&pause=600&color=00e5ff&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%E2%96%B8+%5B+WELCOME+TO+MY+COMMAND+CENTER+%5D+%E2%97%82;%E2%96%B8+%5B+GLAD+YOU+ARE+HERE+%E2%80%94+LOOK+AROUND+%5D+%E2%97%82;%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
 
 <br/>
 
 <!-- DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
@@ -21,7 +21,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+01+%5D%20%20AI+CORE+IDENTITY+PANEL%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+01+%5D%20%20AI+CORE+IDENTITY+PANEL%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
 </div>
 
 <br/>
@@ -79,7 +79,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -89,7 +89,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+02+%5D%20%20TECHNOLOGY+REACTOR+GRID%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+02+%5D%20%20TECHNOLOGY+REACTOR+GRID%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
 </div>
 
 <br/>
@@ -166,7 +166,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -176,7 +176,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+03+%5D%20%20LIVE+TELEMETRY+COMMAND+CENTER%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+03+%5D%20%20LIVE+TELEMETRY+COMMAND+CENTER%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
 </div>
 
 <br/>
@@ -229,7 +229,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -239,7 +239,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+04+%5D%20%20PERFORMANCE+METRICS%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+04+%5D%20%20PERFORMANCE+METRICS%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
 </div>
 
 <br/>
@@ -266,7 +266,7 @@
 <br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 </div>
 
 <br/>
@@ -276,7 +276,7 @@
      ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+05+%5D%20%20ESTABLISH+COMM-LINK%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:000000,50:004455,100:000000&height=55&text=%E2%97%88%20%5B+05+%5D%20%20ESTABLISH+COMM-LINK%20%E2%97%88&fontSize=18&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=2&animation=twinkling" width="88%"/>
 </div>
 
 <br/>
@@ -307,14 +307,14 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 
 <br/>
 
-[![quote](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=13&duration=5000&pause=2000&color=4dd9f0&center=true&vCenter=true&width=760&height=30&lines=%22You+can+take+away+my+suits%2C+but+you+can+never+take+away+the+Iron+Man.%22)](https://github.com/puspharaj-7)
+[![quote](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=15&duration=5000&pause=2000&color=00ffff&center=true&vCenter=true&width=760&height=35&lines=%22You+can+take+away+my+suits%2C+but+you+can+never+take+away+the+Iron+Man.%22)](https://github.com/puspharaj-7)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=50&text=PUSPHARAJ+·+STARK.PROTOCOL+v9.0+·+ALL+SYSTEMS+NOMINAL&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=60&stroke=00e5ff&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:002233,100:000000&height=80&text=PUSPHARAJ+·+STARK.PROTOCOL+v9.0+·+ALL+SYSTEMS+NOMINAL&fontSize=14&fontColor=00ffff&fontAlign=50&fontAlignY=55&stroke=00e5ff&strokeWidth=1&animation=twinkling" width="100%"/>
 
 </div>
