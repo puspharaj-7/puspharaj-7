@@ -16,57 +16,74 @@
 
 <br/>
 
-╔══════════════════════════════════════════════════════════════╗
+<!-- ╔══════════════════════════════════════════════════════════════╗
      ║           01 · AI CORE IDENTITY PANEL                       ║
      ╚══════════════════════════════════════════════════════════════╝ -->
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=46&text=%E2%97%88%20%5B+01+%5D%20%20AI+CORE+IDENTITY+PANEL%20%E2%97%88&fontSize=17&fontColor=00e5ff&fontAlign=50&fontAlignY=62&stroke=00e5ff&strokeWidth=1" width="88%"/>
 </div>
+
 <br/>
-<!-- ── LEFT: data panel as image rows | RIGHT: holographic GIF ── -->
-<table align="center" width="94%">
+
+<table align="center" width="96%">
 <tr>
-<td width="55%" valign="top" align="center">
-<!-- USER IDENTIFICATION header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000d12&height=30&text=USER_IDENTIFICATION&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65&stroke=00e5ff&strokeWidth=1" width="100%"/>
-<!-- Data rows as badges -->
-<br/>
-Show Image
-Show Image
-<br/>
-Show Image
-Show Image
-<br/><br/>
-<!-- CORE DIRECTIVES header -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000d12&height=30&text=CORE_DIRECTIVES&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65&stroke=00e5ff&strokeWidth=1" width="100%"/>
-<br/>
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-<br/>
-<!-- SYSTEM STATUS footer -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:000d12&height=30&text=SYSTEM_STATUS&fontSize=12&fontColor=00e5ff&fontAlign=50&fontAlignY=65&stroke=00e5ff&strokeWidth=1" width="100%"/>
-<br/>
-Show Image 
-Show Image 
-Show Image
+<td width="56%" valign="top">
+
+```text
+╭─────────────────────────────────────────────────────────╮
+│ ▣ NEURAL_IDENTITY_PROTOCOL :: INITIALIZING...           │
+├─────────────────────────────────────────────────────────┤
+│  ▶ IDENTIFIER  :: Puspharaj                             │
+│  ▶ DESIGNATION :: Java Full Stack Engineer              │
+│  ▶ CLEARANCE   :: Level 9 - Omega Root Access           │
+│  ▶ SPECIALTY   :: AI-Enhanced Backend Architecture      │
+├─────────────────────────────────────────────────────────┤
+│ ▣ CORE_PROCESSING_DIRECTIVES :: ACTIVE_THREADS          │
+├─────────────────────────────────────────────────────────┤
+│  ▰▰▰▰▱  Architecting high-performance adaptive APIs     │
+│  ▰▰▰▰▰  Designing fault-tolerant scalable systems       │
+│  ▰▰▰▱▱  Optimizing complex database query engines       │
+│  ▰▰▰▰▱  Ensuring maximum system uptime & scale          │
+├─────────────────────────────────────────────────────────┤
+│  > ARC_REACTOR_CORE         [ ██████████ ]  100%        │
+│  > QUANTUM_NEURAL_NET       [ ██████████ ]  ONLINE      │
+│  > MACRO_INFRASTRUCTURE     [ ██████████ ]  NOMINAL     │
+╰─────────────────────────────────────────────────────────╯
+```
+
 </td>
-<td width="45%" align="center" valign="middle">
-<!-- Holographic Iron Man lab GIF -->
-<img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="96%" alt="stark-holographic-lab"/>
+<td width="44%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="230" alt="stark-lab"/>
+
 <br/>
-Show Image
+
+[![status](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=12&pause=1500&color=00e5ff&center=true&vCenter=true&width=250&height=22&lines=%E2%97%88+STARK+INDUSTRIES+%2F%2F+AUTHORIZED+%E2%97%88;%E2%97%88+NEURAL+LINK+%2F%2F+ESTABLISHED+%E2%97%88;%E2%97%88+AI+CORE+%2F%2F+SYNCHRONIZED+%E2%97%88)](https://github.com/puspharaj-7)
+
 </td>
 </tr>
 </table>
+
 <br/>
+
+<div align="center">
+
+![](https://img.shields.io/badge/SYS.ROLE-JAVA%20FULL%20STACK-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=openjdk)&nbsp;
+![](https://img.shields.io/badge/CORE.FOCUS-BACKEND%20%26%20AI%20SYSTEMS-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=spring)&nbsp;
+![](https://img.shields.io/badge/AUTH.LEVEL-OMEGA%20ROOT-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=shieldsdotio)&nbsp;
+![](https://img.shields.io/badge/AI.STATUS-SYNCHRONIZED-000000?style=for-the-badge&labelColor=000d12&color=000000&logoColor=00e5ff&logo=statuspage)
+
+</div>
+
+<br/>
+
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:00e5ff,100:000000&height=2&section=header" width="100%"/>
 </div>
+
 <br/>
-<!--
+
 <!-- ╔══════════════════════════════════════════════════════════════╗
      ║           02 · TECHNOLOGY REACTOR GRID                      ║
      ╚══════════════════════════════════════════════════════════════╝ -->
