@@ -103,7 +103,6 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=4dd9f0)&nbsp;
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=4dd9f0)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=4dd9f0)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=4dd9f0)&nbsp;
 ![REST API](https://img.shields.io/badge/REST_APIs-000000?style=flat-square&logo=fastapi&logoColor=4dd9f0)&nbsp;
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat-square&logo=apachekafka&logoColor=4dd9f0)
 </div>
