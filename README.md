@@ -165,8 +165,6 @@
 ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00e5ff)&nbsp;
 ![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=00e5ff)&nbsp;
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00e5ff)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=00e5ff)&nbsp;
-![Nginx](https://img.shields.io/badge/Nginx-000000?style=flat-square&logo=nginx&logoColor=00e5ff)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00e5ff)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellijidea&logoColor=00e5ff)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00e5ff)
