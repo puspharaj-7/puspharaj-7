@@ -107,12 +107,9 @@
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=4dd9f0)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=4dd9f0)&nbsp;
-![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=4dd9f0)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4dd9f0)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=4dd9f0)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4dd9f0)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-000000?style=flat-square&logo=mongodb&logoColor=4dd9f0)&nbsp;
-![Redis](https://img.shields.io/badge/Redis-000000?style=flat-square&logo=redis&logoColor=4dd9f0)
 
 </div>
 <br/>
