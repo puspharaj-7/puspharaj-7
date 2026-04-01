@@ -138,11 +138,10 @@
 </summary>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=git,vscode,idea,postman,vercel&theme=dark&perline=9"/>
 <br/><br/>
 
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00e5ff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00e5ff)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00e5ff)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=00e5ff)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00e5ff)&nbsp;
