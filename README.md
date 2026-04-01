@@ -4,12 +4,10 @@
 
 <br/>
 
-<!-- WELCOME + BOOT SEQUENCE -->
 [![welcome](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=1800&pause=600&color=4dd9f0&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=130&lines=%E2%96%B8+%5B+WELCOME+TO+MY+COMMAND+CENTER+%5D+%E2%97%82;%E2%96%B8+%5B+GLAD+YOU+ARE+HERE+%E2%80%94+LOOK+AROUND+%5D+%E2%97%82;%E2%96%B8+%5B+INITIALIZING+STARK.PROTOCOL+v9.0+%5D+%E2%97%82;%E2%96%B8+%5B+AUTHENTICATING+USER+%3A+PUSPHARAJ+%5D+%E2%97%82;%E2%96%B8+%5B+ARC+REACTOR+%3A+ONLINE+%7C+ALL+SYSTEMS+NOMINAL+%5D+%E2%97%82)](https://github.com/puspharaj-7)
 
 <br/>
 
-<!-- DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:4dd9f0,100:000000&height=2&section=header&animation=twinkling" width="100%"/>
 
 </div>
@@ -30,7 +28,6 @@
 <tr>
 <td width="56%" valign="top">
 
-```text
 ```text
 ┌─────────────────────────────────────────────────────────┐
 │ ◈ USER_IDENTIFICATION                                   │
@@ -102,14 +99,14 @@
 </summary>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,python,mysql,nodejs,express,postgres,mongodb,redis&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,mysql,postgres&theme=dark&perline=9"/>
 <br/><br/>
 
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=4dd9f0)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=4dd9f0)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4dd9f0)&nbsp;
 ![Node.js](https://img.shields.io/badge/Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=4dd9f0)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4dd9f0)&nbsp;
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4dd9f0)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=4dd9f0)
 
 </div>
 <br/>
@@ -121,17 +118,15 @@
 </summary>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap,tailwind,vite,nextjs&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind&theme=dark&perline=9"/>
 <br/><br/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=4dd9f0)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat-square&logo=typescript&logoColor=4dd9f0)&nbsp;
-![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=4dd9f0)&nbsp;
-![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=4dd9f0)&nbsp;
-![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=4dd9f0)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=4dd9f0)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=4dd9f0)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000000?style=flat-square&logo=bootstrap&logoColor=4dd9f0)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=4dd9f0)&nbsp;
+![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=4dd9f0)&nbsp;
+![Vite](https://img.shields.io/badge/Vite-000000?style=flat-square&logo=vite&logoColor=4dd9f0)&nbsp;
+![Tailwind](https://img.shields.io/badge/Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=4dd9f0)
 
 </div>
 <br/>
@@ -143,16 +138,16 @@
 </summary>
 <br/>
 <div align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,docker,aws,postman,linux,nginx&theme=dark&perline=9"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman,vercel&theme=dark&perline=9"/>
 <br/><br/>
 
-![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=00e5ff)&nbsp;
-![AWS](https://img.shields.io/badge/AWS-000000?style=flat-square&logo=amazonaws&logoColor=00e5ff)&nbsp;
 ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=00e5ff)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00e5ff)&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00e5ff)&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-000000?style=flat-square&logo=visualstudiocode&logoColor=00e5ff)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=intellijidea&logoColor=00e5ff)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=00e5ff)
+![Postman](https://img.shields.io/badge/Postman-000000?style=flat-square&logo=postman&logoColor=00e5ff)&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=00e5ff)&nbsp;
+![Render](https://img.shields.io/badge/Render-000000?style=flat-square&logo=render&logoColor=00e5ff)
 
 </div>
 <br/>
@@ -178,14 +173,12 @@
 
 <div align="center">
 
-<!-- Row 1: GitHub Stats + Streak -->
 <img src="https://github-readme-stats.vercel.app/api?username=puspharaj-7&show_icons=true&bg_color=000000&title_color=4dd9f0&text_color=a0d8ef&icon_color=4dd9f0&hide_border=false&border_color=4dd9f0&border_radius=0&include_all_commits=true&count_private=true" height="170"/>
 &nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=puspharaj-7&background=000000&ring=4dd9f0&fire=4dd9f0&currStreakLabel=4dd9f0&sideLabels=4dd9f0&dates=4dd9f0&stroke=4dd9f0&border=4dd9f0&sideNums=ffffff&currStreakNum=ffffff&hide_border=false&border_radius=0" height="170"/>
 
 <br/><br/>
 
-<!-- Row 2: Languages + LeetCode -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=puspharaj-7&layout=compact&bg_color=000000&title_color=4dd9f0&text_color=a0d8ef&hide_border=false&border_color=4dd9f0&border_radius=0&langs_count=8" height="170"/>
 &nbsp;
 <a href="https://leetcode.com/puspharaj-7">
@@ -194,7 +187,6 @@
 
 <br/><br/>
 
-<!-- Trophy Cabinet -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=32&text=%E2%96%B8+ACHIEVEMENT+VAULT+%2F%2F+TROPHY+CABINET+%E2%97%82&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=65" width="88%"/>
 
 <br/><br/>
@@ -203,7 +195,6 @@
 
 <br/><br/>
 
-<!-- Contribution Snake -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=32&text=%E2%96%B8+CONTRIBUTION+NETWORK+%2F%2F+ACTIVITY+MATRIX+%E2%97%82&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=65" width="88%"/>
 
 <br/><br/>
@@ -216,7 +207,6 @@
 
 <br/><br/>
 
-<!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=puspharaj-7&bg_color=000000&color=4dd9f0&line=4dd9f0&point=ffffff&area=true&area_color=4dd9f0&hide_border=false&border_color=4dd9f0&custom_title=SYSTEM+CONTRIBUTIONS+%2F%2F+GLOBAL+HEATMAP" width="96%"/>
 
 </div>
@@ -313,5 +303,3 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=50&text=PUSPHARAJ+·+STARK.PROTOCOL+v9.0+·+ALL+SYSTEMS+NOMINAL&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=60&stroke=4dd9f0&strokeWidth=1" width="100%"/>
 
 </div>
-
-
