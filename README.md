@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./jarvis-hud-header.svg" width="100%" alt="JARVIS HUD — PUSPHARAJ · Software Engineer · Backend Specialist · Systems Architect"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,40:000d12,70:001a1f,100:00e5ff&height=260&section=header&text=PUSPHARAJ&fontSize=88&fontColor=4dd9f0&fontAlignY=50&animation=twinkling&stroke=4dd9f0&strokeWidth=2&desc=⬡%20SOFTWARE%20ENGINEER%20%20·%20%20BACKEND%20SPECIALIST%20%20·%20%20SYSTEMS%20ARCHITECT%20⬡&descSize=14&descAlignY=72&descColor=4dd9f0" width="100%"/>
 
 <br/>
 
@@ -320,4 +320,3 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:000d12,100:000000&height=50&text=PUSPHARAJ+·+STARK.PROTOCOL+v9.0+·+ALL+SYSTEMS+NOMINAL&fontSize=12&fontColor=4dd9f0&fontAlign=50&fontAlignY=60&stroke=4dd9f0&strokeWidth=1" width="100%"/>
 
 </div>
-
